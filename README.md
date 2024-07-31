@@ -114,5 +114,13 @@ Appwrite
 TailwindCSS
 
 Vite
+## Screen Shots 
+![Screenshot 2024-07-31 131457](https://github.com/user-attachments/assets/5edad180-b354-436a-b02a-d7fceba0310d)
+
+![Screenshot 2024-07-31 131431](https://github.com/user-attachments/assets/8e25c304-35f2-4f42-876b-bc3fd1882667)
+
+
+
+
 
 
